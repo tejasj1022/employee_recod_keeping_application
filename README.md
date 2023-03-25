@@ -12,3 +12,4 @@
 3. Migrate the database `python manage.py migrate`
 4. Run the server `python manage.py runserver`
 
+**Note:** Please refer to the Swagger documentation for the API endpoint details. The Swagger documentation can be accessed at `http://127.0.0.1:8000/api/swagger/` after running the server.
